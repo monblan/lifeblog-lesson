@@ -1,0 +1,67 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+li {list-style: none;}
+
+a {text-decoration: none;}
+
+.clear {clear: both;}
+
+.wrap-big {
+    background: url(../img/city.jpg) top center no-repeat;
+    background-attachment: fixed;
+    margin: 0 auto;
+}
+
+.wrapper{
+    width: 1070px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.main {
+    width: 1030px;
+    margin: 0 auto;
+    font-family: "OpenSansRegular";
+    color: #5e5e5e;
+    height: 2200px;
+}
+
+.font-blue {
+    color: #0058b9;
+}
+
+.buttons {
+    background-color: #528ad4;
+    font-family: OpenSansBold;
+    height: 40px;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 6px;
+    color: white;
+    border-bottom: 2px solid #2d557e;
+}
+
+.btn-back-call {
+    float: right;
+}
+
+i {
+    color: #00438D;
+}
+
+.between-section {
+    padding-top: 60px;
+}
+
+.top-line {
+    height: 90px;
+    padding-top: 17px;
+}
+
+.phone-top {
+    font-family: OpenSansBold;
+}
